@@ -3,5 +3,18 @@
 }
 
 .buy-btn{
-    background-color: #f5356f;
+    cursor: pointer;
+    background-image: linear-gradient(#f05892, #FF136F) ;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: #fff;
+}
+
+.carousel-item{
+ padding: 20px 40px;
+}
+
+.price-info{
+    color: #FF136F;
 }
