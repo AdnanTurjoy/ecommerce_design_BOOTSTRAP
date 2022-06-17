@@ -1,5 +1,11 @@
+
+.container{
+    margin-bottom: 80px;
+}
+
 .banner-bg{
     background-color: #feeae9;
+    border-radius: 10px;
 }
 
 .buy-btn{
