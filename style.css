@@ -48,3 +48,12 @@
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
+.subs{
+    padding: 20px 0px;
+}
+.subscribe{
+    height: 300px;
+}
+.subscribe .s{
+    padding-bottom: 5px;
+}
